@@ -3,8 +3,8 @@
 Executive Master Statistique et Big Data - 2016-2017
 
 Planning:  
-- Session 1 Jeudi 19 Octobre 2017 17-18h30: Introduction au langage Python et aux librairies pour le calcul scientifique. 
-- Session 2: Mardi 07 Novembre 2017 18-21h. Librairies pour le calcul scientifique (numpy, pandas, sklearn, matplotlib, seaborn).
+- Session 1 Jeudi 19 Octobre 2017 17-18h30: Introduction au langage Python. 
+- Session 2: Mardi 07 Novembre 2017 18-21h. Introduction à Numpy et Matplotlib, deux packages Python indispensables à la programmation scientifique.
 - Session 3: Jeudi 16 Novembre 2017 17-18h30. Projet de machine learning avec pandas et sklearn.    
 
 ### A installer avant la 1ère session:  
