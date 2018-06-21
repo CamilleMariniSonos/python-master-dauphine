@@ -1,11 +1,10 @@
 ## Introduction à Python pour le Machine Learning
 
-Executive Master Statistique et Big Data - 2016-2017
+Executive Master Statistique et Big Data - 2017-2018
 
 Planning:  
-- Session 1 Jeudi 19 Octobre 2017 17-18h30: Introduction au langage Python. 
-- Session 2: Mardi 07 Novembre 2017 18-21h. Introduction à Numpy et Matplotlib, deux packages Python indispensables à la programmation scientifique.
-- Session 3: Jeudi 16 Novembre 2017 17-18h30. Projet de machine learning avec pandas et sklearn.    
+- Session 1 Mardi 26 Juin 18-21h00: Introduction au langage Python et aux packages essentiels à la programmation scientifique. 
+- Session 2: Mardi 3 Juillet 18-21h. Projet de machine learning avec pandas et sklearn.    
 
 ### A installer avant la 1ère session:  
 
